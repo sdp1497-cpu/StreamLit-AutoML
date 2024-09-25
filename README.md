@@ -18,10 +18,6 @@ Make sure you have the following libraries installed before running the script:
 - `matplotlib`
 - `seaborn`
 
-You can install the dependencies using pip 📥:
-
-pip install -r requirements.txt
-
  📊**Input Data Format**
 The script expects the input dataset to be in a CSV format with the following structure:
 
